@@ -15,5 +15,5 @@
 |numpy	|1.18.4|
 |opencv-python	|4.1.0.25|
 # 训练方法
-train.py进行模型的训练
+train.py进行模型的训练<br>
 test.py测试模型的转换效果
