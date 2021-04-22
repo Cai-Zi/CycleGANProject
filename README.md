@@ -17,3 +17,14 @@
 # 训练方法
 train.py进行模型的训练<br>
 test.py测试模型的转换效果
+# 参考
+[junyanz/CycleGAN仓库](https://github.com/junyanz/CycleGAN)
+J. Zhu, T. Park, P. Isola and A. A. Efros, "Unpaired Image-to-Image Translation Using Cycle-Consistent Adversarial Networks," 2017 IEEE International Conference on Computer Vision (ICCV), Venice, 2017, pp. 2242-2251, doi: 10.1109/ICCV.2017.244.
+[主要参考博客](https://blog.csdn.net/dqcfkyqdxym3f8rb0/article/details/106030098)
+https://blog.csdn.net/c9Yv2cf9I06K2A9E/article/details/79557699
+https://blog.csdn.net/syysyf99/article/details/100120952
+https://blog.csdn.net/liongxiong/article/details/80875885
+https://blog.csdn.net/yxpandjay/article/details/90369947
+https://blog.csdn.net/m0_37605642/article/details/98854753
+https://blog.csdn.net/sunmingyang1987/article/details/102872658
+
